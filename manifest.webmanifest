@@ -1,0 +1,14 @@
+{
+ "name":"아기 백호 바둑",
+ "short_name":"백호 바둑",
+ "description":"오프라인 AI 바둑 · 흑백 선택 · 접바둑 · 한국식 계가",
+ "lang":"ko-KR",
+ "id":"./",
+ "start_url":"./",
+ "scope":"./",
+ "display":"standalone",
+ "orientation":"portrait",
+ "background_color":"#f7f4e9",
+ "theme_color":"#f4efe1",
+ "icons":[{"src":"./assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}]
+}
